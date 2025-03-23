@@ -1,0 +1,135 @@
+[[bat]]
+arch = "aarch64"
+git-tree-sha1 = "9c85efbd254bce3b288a7975ff7206b6d4b704b9"
+os = "macos"
+
+    [[bat.download]]
+    sha256 = "673542a12f4195c6626fa9b7f2c4d31d7b618ae524f24909bb080e8995defafb"
+    url = "https://github.com/JuliaBinaryWrappers/bat_jll.jl/releases/download/bat-v13.0.0+0/bat.v13.0.0.aarch64-apple-darwin.tar.gz"
+[[bat]]
+arch = "aarch64"
+git-tree-sha1 = "9bdc6815ea80fe97fcf7abab069e1ededc6f3a0e"
+libc = "glibc"
+os = "linux"
+
+    [[bat.download]]
+    sha256 = "0e0c0ebe0740cd513540db43671b2135308a485dbf932df0649c290422aa5951"
+    url = "https://github.com/JuliaBinaryWrappers/bat_jll.jl/releases/download/bat-v13.0.0+0/bat.v13.0.0.aarch64-linux-gnu.tar.gz"
+[[bat]]
+arch = "aarch64"
+git-tree-sha1 = "029023d3026214456e13f8cdb7fdb448d25ae400"
+libc = "musl"
+os = "linux"
+
+    [[bat.download]]
+    sha256 = "6e36f7e766ebdd088d03932157af183e123de8aaa574836cc71a67f8d3729120"
+    url = "https://github.com/JuliaBinaryWrappers/bat_jll.jl/releases/download/bat-v13.0.0+0/bat.v13.0.0.aarch64-linux-musl.tar.gz"
+[[bat]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "81ffb18ff3f1922d7a90b312f71cab720fc05fc8"
+libc = "glibc"
+os = "linux"
+
+    [[bat.download]]
+    sha256 = "42923b893e6572f273daebb0a9f5353a7194d8d6ad27db4a1fece6678e467789"
+    url = "https://github.com/JuliaBinaryWrappers/bat_jll.jl/releases/download/bat-v13.0.0+0/bat.v13.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[bat]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ebc3800139dd9e49a3cfcee0c4dd09b044936d21"
+libc = "musl"
+os = "linux"
+
+    [[bat.download]]
+    sha256 = "d914ffc0a35087f5b0c1785b251912c9a7d0b9278466878e4d54f28022b1d1a9"
+    url = "https://github.com/JuliaBinaryWrappers/bat_jll.jl/releases/download/bat-v13.0.0+0/bat.v13.0.0.armv6l-linux-musleabihf.tar.gz"
+[[bat]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9ad2de52e49b7d276e55f2a8eacecf0513e8beeb"
+libc = "glibc"
+os = "linux"
+
+    [[bat.download]]
+    sha256 = "49b16358d1e890010bf2e101e5b1d333f7e0723ee534468a5268fbc346939a76"
+    url = "https://github.com/JuliaBinaryWrappers/bat_jll.jl/releases/download/bat-v13.0.0+0/bat.v13.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[bat]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8593b1f62836a10523f255dfa6576aeb6e479885"
+libc = "musl"
+os = "linux"
+
+    [[bat.download]]
+    sha256 = "c7845e18f20581dd40123266e4697e1a456cb87574b54e0f7bbe2f39d3ebfa64"
+    url = "https://github.com/JuliaBinaryWrappers/bat_jll.jl/releases/download/bat-v13.0.0+0/bat.v13.0.0.armv7l-linux-musleabihf.tar.gz"
+[[bat]]
+arch = "i686"
+git-tree-sha1 = "37147dc3e203c1df637c4e43e080c7609b37f814"
+libc = "glibc"
+os = "linux"
+
+    [[bat.download]]
+    sha256 = "144cf8681abb57655d6eeea96e539b827d8856a386d05f6f6c3ef2df2583dac4"
+    url = "https://github.com/JuliaBinaryWrappers/bat_jll.jl/releases/download/bat-v13.0.0+0/bat.v13.0.0.i686-linux-gnu.tar.gz"
+[[bat]]
+arch = "i686"
+git-tree-sha1 = "11c3318afb03b0fd5a6d961eeb347406b0597c72"
+libc = "musl"
+os = "linux"
+
+    [[bat.download]]
+    sha256 = "3038d25bb9c2b5e18ed80f92a8736815cf89975a48d63a74db14fffcd4a32a24"
+    url = "https://github.com/JuliaBinaryWrappers/bat_jll.jl/releases/download/bat-v13.0.0+0/bat.v13.0.0.i686-linux-musl.tar.gz"
+[[bat]]
+arch = "powerpc64le"
+git-tree-sha1 = "5f65b628511fcff8a5cfa33e2b1511b422191c6e"
+libc = "glibc"
+os = "linux"
+
+    [[bat.download]]
+    sha256 = "1ae30d3fa15eb9495c060daaceb4cf3b59d42069d5371e44ace6a7ff84e83006"
+    url = "https://github.com/JuliaBinaryWrappers/bat_jll.jl/releases/download/bat-v13.0.0+0/bat.v13.0.0.powerpc64le-linux-gnu.tar.gz"
+[[bat]]
+arch = "x86_64"
+git-tree-sha1 = "2e87d0ec811f7935102c06098be61a3789b4e71e"
+os = "macos"
+
+    [[bat.download]]
+    sha256 = "a0bde0ca6b09505d7e566bd6cb1649479276211a399a983c366a35a947328c33"
+    url = "https://github.com/JuliaBinaryWrappers/bat_jll.jl/releases/download/bat-v13.0.0+0/bat.v13.0.0.x86_64-apple-darwin.tar.gz"
+[[bat]]
+arch = "x86_64"
+git-tree-sha1 = "63129b52446af659047afbf44d88856eb75400eb"
+libc = "glibc"
+os = "linux"
+
+    [[bat.download]]
+    sha256 = "8dc3d8eba53fbcda29c8b82b06a7c8d3a7a63167904df7e4380380c7c2011a5e"
+    url = "https://github.com/JuliaBinaryWrappers/bat_jll.jl/releases/download/bat-v13.0.0+0/bat.v13.0.0.x86_64-linux-gnu.tar.gz"
+[[bat]]
+arch = "x86_64"
+git-tree-sha1 = "8adb344ed98f341004e2b35a642d4d1cd8e50cad"
+libc = "musl"
+os = "linux"
+
+    [[bat.download]]
+    sha256 = "56421e89b91edfb87446d0d2459a00dfc5e9c5a8338c2eec3eb2809bd692bede"
+    url = "https://github.com/JuliaBinaryWrappers/bat_jll.jl/releases/download/bat-v13.0.0+0/bat.v13.0.0.x86_64-linux-musl.tar.gz"
+[[bat]]
+arch = "x86_64"
+git-tree-sha1 = "484905d9a29e17db806acd31d3e9b521198ecb2e"
+os = "freebsd"
+
+    [[bat.download]]
+    sha256 = "e9a114bd86c3a88d48281755bfb4e20d7f030e5941a4610dfaf5dd1b427c711e"
+    url = "https://github.com/JuliaBinaryWrappers/bat_jll.jl/releases/download/bat-v13.0.0+0/bat.v13.0.0.x86_64-unknown-freebsd.tar.gz"
+[[bat]]
+arch = "x86_64"
+git-tree-sha1 = "0aec05e27f55f1515076fa89ff454f067bae9edd"
+os = "windows"
+
+    [[bat.download]]
+    sha256 = "574aeaf592c6f3543fe5d5a9ef33b3fd0a21daadc6d152cc5cbd6d9c222fb152"
+    url = "https://github.com/JuliaBinaryWrappers/bat_jll.jl/releases/download/bat-v13.0.0+0/bat.v13.0.0.x86_64-w64-mingw32.tar.gz"
